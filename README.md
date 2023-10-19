@@ -46,7 +46,7 @@ make build-linux
 ```
 make clean
 ```
-## Resources
+## Important
 
 Before launching this project, ensure you've completed the following configurations:
 
