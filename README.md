@@ -48,8 +48,9 @@ make clean
 ```
 ## Resources
 
-please keep in mind, before you run this project. you need to config several items:
+Before launching this project, ensure you've completed the following configurations:
 
-1> "config/prod" this file is supposed to be your cluster .kube/config file
+1, "config/prod" File: This file should represent your cluster's .kube/config file.
+<br/>
 
-2> "gaget/sql_info.json" this file is supposed to fill up with database info. the with user table, you need to manually add a account. then the API will automatically go through the authentication model. 
+2, "gaget/sql_info.json" File: Fill this file with the required database details. For the user table, manually add an account to enable the API to proceed with the authentication process.
