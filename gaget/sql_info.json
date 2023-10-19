@@ -1,0 +1,14 @@
+{
+	"dev": {
+		"MYSQL_DB": "xxx",
+		"MYSQL_HOST": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"MYSQL_USER": "admin",
+		"MYSQL_PASSWORD":"xxxxxxxx.",
+	},
+	"prod": {
+		"MYSQL_DB": "xxx",
+		"MYSQL_HOST": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"MYSQL_USER": "xxxxxxxx",
+		"MYSQL_PASSWORD":"xxxxxxxx",
+	}
+}

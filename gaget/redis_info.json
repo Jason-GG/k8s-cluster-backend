@@ -1,0 +1,15 @@
+{
+	"prod": 
+	{
+		"HOST": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"PORT": "6379"
+	},
+	"dev": 
+	{
+		"HOST": "xxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+		"PORT": "6379"
+	}
+}
+
+
+
