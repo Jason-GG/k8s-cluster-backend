@@ -19,8 +19,7 @@ HTTPS clone URL: https://github.com/Jason-GG/k8s-cluster-backend.git
 
 
 ## Description
-the project is based on client-go, fiber, gorm to make a backend platform to manage k8s cluster.
-please use the project: [vue3-k8s-dashboard-webssh]
+The project is built on top of client-go, Fiber, and Gorm to create a robust backend platform for Kubernetes cluster management. You can explore and utilize the project  [vue3-k8s-dashboard-webssh] by visiting resources
 
 [vue3-k8s-dashboard-webssh]:https://github.com/Jason-GG/vue3-k8s-dashboard-webssh.git
 
